@@ -1,1 +1,1 @@
-# PI
+# PI - Poslovna informatika
