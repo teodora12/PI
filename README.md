@@ -12,4 +12,4 @@ korisnicka imena i lozinke koje se koriste:
 
 username: demo_shop; password: AR6BJR9i5j      -> prodavac, kreira proizvode i generise fakture i otpremnice
 username: demo_administrator; password: pJLvPBup45       -> admin, upravlja korisnicima u sistemu
-username: demo_user; password: xVOpNfUO70      -> kupac, narucuje
+username: demo_user; password: xVOpNfUO70      -> kupac, narucuje robu
