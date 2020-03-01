@@ -1,4 +1,4 @@
-# PI - Poslovna informatika
+# PINF - Poslovna informatika
 
 Projektovanje i implementacija podsistema za fakturisanje
 
