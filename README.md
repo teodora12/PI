@@ -10,6 +10,10 @@ Projekat je radjen u timu koji je sadrzao 2 clana.
 Projekat mozete pogledati na sledecem linku: https://prodajatim18-sandbox.mxapps.io/index.html?profile=Responsive
 korisnicka imena i lozinke koje se koriste:
 
-username: demo_shop; password: AR6BJR9i5j      -> prodavac, kreira proizvode i generise fakture i otpremnice
+username: demo_shop; password: AR6BJR9i5j      -> prodavac, kreira proizvode i generise fakture i otpremnice (kartica narucivanje -> narudzbenica -> izabere se jedna -> napravi fakturu, zatim kartica faktura -> izabere se jedna -> pa se izabere stampanje PDF dokumenta)
 username: demo_administrator; password: pJLvPBup45       -> admin, upravlja korisnicima u sistemu
-username: demo_user; password: xVOpNfUO70      -> kupac, narucuje robu
+username: demo_user; password: xVOpNfUO70      -> kupac, narucuje robu (kartica narucivanje -> naruci -> kreira se narudzbenica)
+
+neka bitna ogranicenja: 
+• datum fakture ne sme biti veci od tekuceg datuma
+• datum valute ne sme biti manji od datuma fakture
